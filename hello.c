@@ -6,7 +6,7 @@
 #endif
 
 #ifndef DOCKER_GREETING
-	#define DOCKER_GREETING "Hello from Docker!"
+	#define DOCKER_GREETING "Hello from Srivikri!"
 #endif
 
 #ifndef DOCKER_ARCH
